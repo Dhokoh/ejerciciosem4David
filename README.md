@@ -1,2 +1,6 @@
 # ejerciciosem4David
-Ejercicio semana 4 GitHub
+
+Nombre: David Salomon Ho Garcia
+Edad: 32 años
+Hobbies: Jugar videojuegos, leer, ver series, programar.
+
